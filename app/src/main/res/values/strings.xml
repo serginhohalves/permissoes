@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Permissions</string>
+    <string name="photo_name">Photo Name</string>
+    <string name="photo_description">Photo Description</string>
+    <string name="photo_descripton">photo_descricao</string>
+    <string name="tirat_foto">Tirat Foto</string>
+</resources>
